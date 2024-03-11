@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'ABC Favorit Unlicensed Trial';
+    src: url('ABCFavorit-Bold.eot');
+    src: url('ABCFavorit-Bold.eot?#iefix') format('embedded-opentype'),
+        url('ABCFavorit-Bold.woff2') format('woff2'),
+        url('ABCFavorit-Bold.woff') format('woff'),
+        url('ABCFavorit-Bold.ttf') format('truetype'),
+        url('ABCFavorit-Bold.svg#ABCFavorit-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
